@@ -4105,3 +4105,7 @@ work on the other. In addition, I commented out a few words that are not directl
 to magic, but which, in my opinion, can cause bewilderment of the reader.
 Augurs - in ancient Rome - priests who predicted the future by the flight of birds and their behavior. The vast majority of them were conscious crooks. To a large extent this
 applies to institute augurs, although they have now developed new methods.
+Anacephalus - a freak, devoid of a brain and a cranium. Usually anacephalic
+die at birth or a few hours later.
+Bezalel, Leo Ben - famous medieval magician, court alchemist of Emperor Rudolf
+II.
